@@ -1,0 +1,23 @@
+{
+    "name": "Phone Exploit Tool",
+    "short_name": "PET",
+    "description": "أداة متقدمة لإدارة الفحوصات الأمنية والتقارير الرقمية",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#002623",
+    "theme_color": "#002623",
+    "icons": [
+        {
+            "src": "./app_icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./app_icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
